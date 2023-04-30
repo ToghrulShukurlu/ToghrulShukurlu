@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToghrulShukurlu
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Fronr-End with React
+- 🌱 I’m currently learning Front-End with React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
